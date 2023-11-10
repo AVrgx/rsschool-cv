@@ -1,1 +1,1 @@
-https://avrgx.github.com/rsschool-cv/cv
+https://avrgx.github.io/rsschool-cv/cv
