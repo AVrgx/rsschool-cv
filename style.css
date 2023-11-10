@@ -1,0 +1,20 @@
+.wrapper {
+   width: 900px;
+   background-color: rgb(95, 95, 163);
+   margin: auto;
+}
+.header__title {
+   display: flex;
+   flex-wrap: nowrap;
+}
+
+.header__img {
+   display: block;
+   width: 300px;
+}
+.header__contact {
+   text-align: center;
+   flex-grow: 2;
+   color: rgb(190, 190, 15);
+   align-self: center;
+}
