@@ -30,5 +30,7 @@ function getDigitsSum(a) {
       * CS50 lectures
 
 ## English
+
 **A2** (I study on my own using Oxford books and video lectures)
+
 
